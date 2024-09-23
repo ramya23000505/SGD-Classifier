@@ -68,10 +68,11 @@ print(cf)
 ```
 
 ## Output:
+### Data:
 ![image](https://github.com/user-attachments/assets/cc47ecd8-9049-45e6-a586-a77274ad9f7a)
 ### Accuracy:
 ![image](https://github.com/user-attachments/assets/e86c22c4-2827-4454-893e-1833fb288993)
-### Matrics:
+### Matrix:
 ![image](https://github.com/user-attachments/assets/a05c5ed4-a05b-4266-8b69-d11e191b6150)
 
 ## Result:
